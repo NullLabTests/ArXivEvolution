@@ -62,7 +62,6 @@ Check out these demo videos to see the project in action:
 - [Demo Video 1](https://i.imgur.com/gYkEQUK.mp4)
 - [Demo Video 2](https://i.imgur.com/oX8QDlI.mp4)
 
-```
 
 ## Contributing
 
