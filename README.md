@@ -1,8 +1,6 @@
 # Self-Improving AI Code Agent
 
-![License](https://img.shields.io/github/license/NullLabTests/ArXivEvolution)
 ![Python](https://img.shields.io/badge/language-Python-blue)
-![Coverage](https://codecov.io/gh/NullLabTests/ArXivEvolution/branch/main/graph/badge.svg)
 
 
 This project, based on [SelfImprovingAgent](https://github.com/NullLabTests/SelfImprovingAgent) contains a Python-based self-improving agent that uses AI to generate, evaluate, and iteratively refine code. The agent leverages the OpenAI API to produce new code and the arXiv API to incorporate inspiration from the latest research on self-improving AI. If implemented in a loop ( PLEASE USE CONTAINERIZED ENVs AND USE CAUTION ) this should allow an AI to continue to improve with the latest research pulled from arXiv. 
