@@ -21,37 +21,55 @@ You can install the required external libraries using pip:
 
 ```bash
 pip install openai arxiv
-Setup
-Clone the Repository:
+```
 
-bash
-Copy
-Edit
+## Setup
+
+### Clone the Repository:
+
+```bash
 git clone <repository-url>
 cd <repository-directory>
-Set the Environment Variable:
+```
+
+### Set the Environment Variable:
 
 Make sure to set your API key for OpenAI. For example:
 
-bash
-Copy
-Edit
+```bash
 export XAI_API_KEY="your_openai_api_key_here"
-Running the Agent
-The main script is contained in ArxEvo.py. You can run it using:
+```
 
-bash
-Copy
-Edit
+## Running the Agent
+
+The main script is contained in `ArxEvo.py`. You can run it using:
+
+```bash
 python3 ArxEvo.py
+```
+
 Watch the agent iterate over its generated code and eventually print the final version to the console.
 
-Demo Videos
+## Demo Videos
+
 Check out these demo videos to see the project in action:
 
-Demo Video 1
-Demo Video 2
-Contributing
-Feel free to open issues or submit pull requests if you have suggestions or improvements.
+- [Demo Video 1](https://i.imgur.com/gYkEQUK.mp4)
+- [Demo Video 2](https://i.imgur.com/oX8QDlI.mp4)
 
+```html
+<video width="320" height="240" controls>
+  <source src="https://i.imgur.com/gYkEQUK.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="https://i.imgur.com/oX8QDlI.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+```
+
+## Contributing
+
+Feel free to open issues or submit pull requests if you have suggestions or improvements.
 
