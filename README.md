@@ -36,7 +36,7 @@ cd <repository-directory>
 
 ### Set the Environment Variable:
 
-Make sure to set your API key for OpenAI. For example:
+Make sure to set your API key for OpenAI, Grok, etc. For example:
 
 ```bash
 export XAI_API_KEY="your_openai_api_key_here"
@@ -59,16 +59,6 @@ Check out these demo videos to see the project in action:
 - [Demo Video 1](https://i.imgur.com/gYkEQUK.mp4)
 - [Demo Video 2](https://i.imgur.com/oX8QDlI.mp4)
 
-```html
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/gYkEQUK.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/oX8QDlI.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 ```
 
 ## Contributing
